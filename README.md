@@ -1,11 +1,9 @@
-# RokSprite
-
 <p align="center">
   <img src="addons/roksprite/PixelRage.png" alt="RokSprite logo" width="64">
 </p>
 
+# RokSprite
 
-![RokSprite logo](addons/roksprite/PixelRage.png)
 
 RokSprite is a Godot 4 editor plugin for drawing square pixel-art tiles, managing TileSets, applying palette operations, and loading/saving PNG sprite sheets.
 
