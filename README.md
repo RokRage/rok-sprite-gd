@@ -1,7 +1,7 @@
 <h1>
   <img src="addons/roksprite/PixelRage.png"
        alt="RokSprite logo"
-       width="128"
+       width="64"
        align="middle">
   RokSprite
 </h1>
